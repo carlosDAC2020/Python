@@ -1,5 +1,7 @@
 from random import *
 
+# prueba de commite
+
 # declaramos la matriz inicial del juego
 triqui=[[0 for c in range(3)]for f in range(3)]
 
